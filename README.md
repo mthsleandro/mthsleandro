@@ -1,5 +1,5 @@
 # 💫 About Me:
-19 yo student and freelancer. Currently working on Android Developing. Sometimes working on web developing.
+19 yo brazilian student and freelancer. Currently working on Android Developing (with PHP and JSON functionality) and Java Swing Developing (with mySQL and Socket functionality). Sometimes working on web developing. I work with both front-end and back-end, but I am more inclined to the design department.
 
 
 ## 🌐 Socials:
