@@ -1,6 +1,13 @@
 # 💫 About Me:
-21 yo brazilian developer. Currently working on Java Swing Developing. Sometimes working on web developing. I work with both front-end and back-end, but I am more inclined to the design department. Current project: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/mthsleandro](https://takekontrol.vercel.app))
-
+21 yo brazilian developer. Currently working on Java Swing Developing. Sometimes working on web developing. I work with both front-end and back-end, but I am more inclined to the design department. <p align="left">Current project:
+  <a href="https://takekontrol.vercel.app" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/05785231-1306-46d7-a12a-67cf2f2c90b2"
+      alt="Kontrol Logo"
+      width="80"
+    />
+  </a>
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mthsleandro) 
