@@ -1,5 +1,5 @@
 # 💫 About Me:
-19 yo brazilian student and freelancer. Currently working on Android Developing (with PHP and JSON functionality) and Java Swing Developing (with mySQL and Socket functionality). Sometimes working on web developing. I work with both front-end and back-end, but I am more inclined to the design department.
+21 yo brazilian developer. Currently working on Java Swing Developing. Sometimes working on web developing. I work with both front-end and back-end, but I am more inclined to the design department. Current project: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/mthsleandro](https://takekontrol.vercel.app))
 
 
 ## 🌐 Socials:
