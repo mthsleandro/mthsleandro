@@ -1,6 +1,6 @@
 # 💫 Sobre mim
 
-Sou um desenvolvedor brasileiro de 21 anos, atualmente trabalhando com **Delphi** e freelancer em **Java Swing**.  
+Sou um desenvolvedor brasileiro de 22 anos, atualmente trabalhando com **Delphi**, aprendendo Next.js e freelancer em **Java Swing**.  
 Eventualmente também atuo com **desenvolvimento web**.
 
 Tenho experiência tanto em **front-end** quanto em **back-end**, porém possuo maior afinidade com a área de **design e experiência do usuário**, buscando sempre interfaces limpas, funcionais e intuitivas.
