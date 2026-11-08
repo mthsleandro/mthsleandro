@@ -5,20 +5,12 @@ Eventualmente também atuo com **desenvolvimento web**.
 
 Tenho experiência tanto em **front-end** quanto em **back-end**, porém possuo maior afinidade com a área de **design e experiência do usuário**, buscando sempre interfaces limpas, funcionais e intuitivas.
 
-## <a href="https://takekontrol.vercel.app" target="_blank">
-  <img 
-    src="https://github.com/user-attachments/assets/05785231-1306-46d7-a12a-67cf2f2c90b2"
-    alt="Kontrol Logo"
-    width="120"
-  />
-</a>
-
+# Kontrol
 Sou o criador do **Kontrol**, um sistema de controle de finanças pessoais desenvolvido com foco em **organização financeira**, **usabilidade** e **design intuitivo**.  
 O projeto busca simplificar o gerenciamento de receitas, despesas e acompanhamento financeiro, oferecendo uma experiência clara e eficiente para o usuário final.
 
 🔗 **Site do projeto:** https://takekontrol.vercel.app
 <br>
-🔗 **GitHub:** https://github.com/mthsleandro/kontrol
 
 
 ## 🌐 Socials:
